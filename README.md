@@ -1,9 +1,16 @@
-## Hello there!, I'm Adolfo ✌
+## Hello there!, I'm Adolfo ✌ <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="30px">
+
+
+
 
 Last Year CS student at Instituto Tecnológico y de Estudios Superiores de Monterrey, I started learning code on FreeCodeCamp and since then found a passion developing Front-End projectes specially on Web.
+<p align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
+</p>
 
-### I'm a Computer Science Student!
-- 👨‍🎓 Finishing my CS bachelor's degree
+
+###  <img src="https://media.giphy.com/media/BXjqytvu9bKzCUHdzz/giphy.gif" width="30px"> I'm a Computer Science Student! 
+- 👨‍🎓 Finishing my CS bachelor's degree 
 - 🏁 2021 Goals: Get an intership in a software company
 - ⚡ Fun fact: I love playing guitar and videogames with friends
 
@@ -13,7 +20,7 @@ Last Year CS student at Instituto Tecnológico y de Estudios Superiores de Monte
 
 
 
-### Languages and Tools:
+### <img src="https://media.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif" width="30px">  Languages and Tools:
 
 <!--<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -57,12 +64,12 @@ Last Year CS student at Instituto Tecnológico y de Estudios Superiores de Monte
 ![VisualStudio](https://img.shields.io/badge/IDE-VisualStudio-informational?style=flat&logo=Visual-Studio&logoColor=white&color=5C2D91)
 ![Atom](https://img.shields.io/badge/IDE-Atom-informational?style=flat&logo=Atom&logoColor=white&color=66595C)
 
-### Favorite Projects
+### <img src="https://media.giphy.com/media/Z8CUHUIpZScWur87r1/giphy.gif" width="30px"> Favorite Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=MicSounds)](https://github.com/JMicalco/MicSounds)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=Paint3D)](https://github.com/JMicalco/Paint3D)
 
-### Stats
+### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="30px"> Stats
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMicalco&langs_count=8" />
 <img align ="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=JMicalco" />
