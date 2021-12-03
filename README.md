@@ -73,7 +73,7 @@ Last Year CS student at Instituto Tecnológico y de Estudios Superiores de Monte
 ### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="30px"> Stats
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMicalco&langs_count=8&theme=dark" />
-<!--<img align ="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=JMicalco&v=3&theme=dark" />-->
+<img align ="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=JMicalco&v=2&theme=dark" />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JMicalco&show_icons=true&hide_border=true&theme=dark" />
 
 
