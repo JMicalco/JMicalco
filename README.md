@@ -1,9 +1,9 @@
-## Hello there!, I'm Adolfo ✌ <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="30px">
+## Hello there!, I'm Adolfo ✌ <img src="https://media.giphy.com/media/3oFzlW8dht4DdvwBqg/giphy.gif" width="30px"> [![wakatime](https://wakatime.com/badge/user/1eafaf01-b72a-415f-af7f-7914c8934f54.svg)](https://wakatime.com/@1eafaf01-b72a-415f-af7f-7914c8934f54)
 
 
 
 
-Last Year CS student at Instituto Tecnológico y de Estudios Superiores de Monterrey, I started learning code on FreeCodeCamp and since then found a passion developing Front-End projectes specially on Web.
+Last Year CS student at Instituto Tecnológico y de Estudios Superiores de Monterrey, I started learning code on FreeCodeCamp and since then found a passion developing Front-End projects specially on Web.
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
 </p>
@@ -66,15 +66,17 @@ Last Year CS student at Instituto Tecnológico y de Estudios Superiores de Monte
 
 ### <img src="https://media.giphy.com/media/Z8CUHUIpZScWur87r1/giphy.gif" width="30px"> Favorite Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=AppQuimica_v2)](https://github.com/JMicalco/AppQuimica_v2)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=Paint3D)](https://github.com/JMicalco/Paint3D)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=MicSounds)](https://github.com/JMicalco/MicSounds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=AppQuimica_v2&theme=dark)](https://github.com/JMicalco/AppQuimica_v2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=Paint3D&theme=dark)](https://github.com/JMicalco/Paint3D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=MicSounds&theme=dark)](https://github.com/JMicalco/MicSounds)
 
 ### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="30px"> Stats
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMicalco&langs_count=8" />
-<img align ="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=JMicalco" />
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JMicalco&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMicalco&langs_count=8&theme=dark" />
+<!--<img align ="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=JMicalco&v=3&theme=dark" />-->
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JMicalco&show_icons=true&hide_border=true&theme=dark" />
+
+
 
 
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
