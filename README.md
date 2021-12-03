@@ -66,19 +66,15 @@ Last Year CS student at Instituto Tecnológico y de Estudios Superiores de Monte
 
 ### <img src="https://media.giphy.com/media/Z8CUHUIpZScWur87r1/giphy.gif" width="30px"> Favorite Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=MicSounds)](https://github.com/JMicalco/MicSounds)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=AppQuimica_v2)](https://github.com/JMicalco/AppQuimica_v2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=Paint3D)](https://github.com/JMicalco/Paint3D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=MicSounds)](https://github.com/JMicalco/MicSounds)
 
 ### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="30px"> Stats
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JMicalco&langs_count=8" />
 <img align ="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=JMicalco" />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=JMicalco&show_icons=true&hide_border=true" />
-
-
-
-
-
 
 
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
