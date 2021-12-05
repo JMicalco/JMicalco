@@ -66,9 +66,11 @@ Last Year CS student at Instituto Tecnológico y de Estudios Superiores de Monte
 
 ### <img src="https://media.giphy.com/media/Z8CUHUIpZScWur87r1/giphy.gif" width="30px"> Favorite Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=chalebache-client&theme=dark)](https://github.com/JMicalco/chalebache-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=AppQuimica_v2&theme=dark)](https://github.com/JMicalco/AppQuimica_v2)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=Paint3D&theme=dark)](https://github.com/JMicalco/Paint3D)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JMicalco&repo=MicSounds&theme=dark)](https://github.com/JMicalco/MicSounds)
+
 
 ### <img src="https://media.giphy.com/media/IcnxGGAj0ubyB2r5M6/giphy.gif" width="30px"> Stats
 
