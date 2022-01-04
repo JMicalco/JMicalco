@@ -83,6 +83,6 @@ Last Year CS student at Instituto Tecnológico y de Estudios Superiores de Monte
 
 
 [twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=twitter&colorB=555
-[twitter-url]: https://twitter.com/Joseph_Micalco
+[twitter-url]: https://twitter.com/Adolfo_Micalco
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/josé-adolfo-sánchez-micalco-b14864140
